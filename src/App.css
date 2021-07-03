@@ -1,0 +1,28 @@
+body {
+  font-family: 'Share Tech Mono', monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  border: 1px solid;
+  background: hsl(0deg 48% 53%);
+  color: #fff;
+  font-size: 24px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+input{
+    background: #eed7dc;
+    font-size: 24px;
+    border: none;
+    text-align: center;
+    color:hsl(0deg 48% 53%);
+
+}
+
+.flex{
+  display: flex;
+}
